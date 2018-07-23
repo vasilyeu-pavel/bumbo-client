@@ -1,0 +1,65 @@
+exports[`<Checkbox /> component should call the "onChange" method and set checked to true after input change 1`] = `
+<div
+  className="checkbox ">
+  <input
+    checked={true}
+    className="checkbox__real"
+    id="filter"
+    onChange={[Function]}
+    type="checkbox" />
+  <label
+    className="checkbox__label"
+    htmlFor="filter">
+    <div
+      className="checkbox__icon" />
+    <div
+      className="checkbox__label-text">
+      filterEnabled
+    </div>
+  </label>
+</div>
+`;
+
+exports[`<Checkbox /> component should render input checkbox and "form-field" class 1`] = `
+<div
+  className="checkbox checkbox--form-field">
+  <input
+    checked={false}
+    className="checkbox__real"
+    id="filter"
+    onChange={[Function]}
+    type="checkbox" />
+  <label
+    className="checkbox__label"
+    htmlFor="filter">
+    <div
+      className="checkbox__icon" />
+    <div
+      className="checkbox__label-text">
+      filterEnabled
+    </div>
+  </label>
+</div>
+`;
+
+exports[`<Checkbox /> component should render input checkbox with label 1`] = `
+<div
+  className="checkbox ">
+  <input
+    checked={false}
+    className="checkbox__real"
+    id="filter"
+    onChange={[Function]}
+    type="checkbox" />
+  <label
+    className="checkbox__label"
+    htmlFor="filter">
+    <div
+      className="checkbox__icon" />
+    <div
+      className="checkbox__label-text">
+      filterEnabled
+    </div>
+  </label>
+</div>
+`;

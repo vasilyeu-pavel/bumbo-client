@@ -1,0 +1,227 @@
+exports[`<CheckboxGroup /> component should call "onChange" method with name beachTypes 1`] = `
+<div
+  className="checkbox-group">
+  <div
+    className="checkbox-group__subtitle">
+    Beach types
+  </div>
+  <div
+    className="checkbox-group__item">
+    <div
+      className="checkbox ">
+      <input
+        checked={true}
+        className="checkbox__real"
+        id={151}
+        onChange={[Function]}
+        type="checkbox" />
+      <label
+        className="checkbox__label"
+        htmlFor={151}>
+        <div
+          className="checkbox__icon" />
+        <div
+          className="checkbox__label-text">
+          Песок белый
+        </div>
+      </label>
+    </div>
+  </div>
+  <div
+    className="checkbox-group__item">
+    <div
+      className="checkbox ">
+      <input
+        checked={false}
+        className="checkbox__real"
+        id={149}
+        onChange={[Function]}
+        type="checkbox" />
+      <label
+        className="checkbox__label"
+        htmlFor={149}>
+        <div
+          className="checkbox__icon" />
+        <div
+          className="checkbox__label-text">
+          Песок вулканический
+        </div>
+      </label>
+    </div>
+  </div>
+  <div
+    className="checkbox-group__item">
+    <div
+      className="checkbox ">
+      <input
+        checked={false}
+        className="checkbox__real"
+        id={150}
+        onChange={[Function]}
+        type="checkbox" />
+      <label
+        className="checkbox__label"
+        htmlFor={150}>
+        <div
+          className="checkbox__icon" />
+        <div
+          className="checkbox__label-text">
+          Песок жёлтый
+        </div>
+      </label>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<CheckboxGroup /> component should call "onChange" method with name beachTypes 2`] = `
+<div
+  className="checkbox-group">
+  <div
+    className="checkbox-group__subtitle">
+    Beach types
+  </div>
+  <div
+    className="checkbox-group__item">
+    <div
+      className="checkbox ">
+      <input
+        checked={false}
+        className="checkbox__real"
+        id={151}
+        onChange={[Function]}
+        type="checkbox" />
+      <label
+        className="checkbox__label"
+        htmlFor={151}>
+        <div
+          className="checkbox__icon" />
+        <div
+          className="checkbox__label-text">
+          Песок белый
+        </div>
+      </label>
+    </div>
+  </div>
+  <div
+    className="checkbox-group__item">
+    <div
+      className="checkbox ">
+      <input
+        checked={false}
+        className="checkbox__real"
+        id={149}
+        onChange={[Function]}
+        type="checkbox" />
+      <label
+        className="checkbox__label"
+        htmlFor={149}>
+        <div
+          className="checkbox__icon" />
+        <div
+          className="checkbox__label-text">
+          Песок вулканический
+        </div>
+      </label>
+    </div>
+  </div>
+  <div
+    className="checkbox-group__item">
+    <div
+      className="checkbox ">
+      <input
+        checked={false}
+        className="checkbox__real"
+        id={150}
+        onChange={[Function]}
+        type="checkbox" />
+      <label
+        className="checkbox__label"
+        htmlFor={150}>
+        <div
+          className="checkbox__icon" />
+        <div
+          className="checkbox__label-text">
+          Песок жёлтый
+        </div>
+      </label>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<CheckboxGroup /> component should render 3 Checkbox'es 1`] = `
+<div
+  className="checkbox-group">
+  <div
+    className="checkbox-group__subtitle">
+    Beach types
+  </div>
+  <div
+    className="checkbox-group__item">
+    <div
+      className="checkbox ">
+      <input
+        checked={false}
+        className="checkbox__real"
+        id={151}
+        onChange={[Function]}
+        type="checkbox" />
+      <label
+        className="checkbox__label"
+        htmlFor={151}>
+        <div
+          className="checkbox__icon" />
+        <div
+          className="checkbox__label-text">
+          Песок белый
+        </div>
+      </label>
+    </div>
+  </div>
+  <div
+    className="checkbox-group__item">
+    <div
+      className="checkbox ">
+      <input
+        checked={false}
+        className="checkbox__real"
+        id={149}
+        onChange={[Function]}
+        type="checkbox" />
+      <label
+        className="checkbox__label"
+        htmlFor={149}>
+        <div
+          className="checkbox__icon" />
+        <div
+          className="checkbox__label-text">
+          Песок вулканический
+        </div>
+      </label>
+    </div>
+  </div>
+  <div
+    className="checkbox-group__item">
+    <div
+      className="checkbox ">
+      <input
+        checked={false}
+        className="checkbox__real"
+        id={150}
+        onChange={[Function]}
+        type="checkbox" />
+      <label
+        className="checkbox__label"
+        htmlFor={150}>
+        <div
+          className="checkbox__icon" />
+        <div
+          className="checkbox__label-text">
+          Песок жёлтый
+        </div>
+      </label>
+    </div>
+  </div>
+</div>
+`;

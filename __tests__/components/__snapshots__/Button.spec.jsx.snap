@@ -1,0 +1,39 @@
+exports[`<Button /> component should render button tag by default 1`] = `
+<button
+  className="button" />
+`;
+
+exports[`<Button /> component should render button with class "button--big" and "button--linear" 1`] = `
+<button
+  className="button button--big button--linear" />
+`;
+
+exports[`<Button /> component should render button with class "button--orange" 1`] = `
+<button
+  className="button button--orange" />
+`;
+
+exports[`<Button /> component should render button with text "Send" 1`] = `
+<button
+  className="button">
+  Send
+</button>
+`;
+
+exports[`<Button /> component should render button with type "submit" 1`] = `
+<button
+  className="button"
+  type="submit" />
+`;
+
+exports[`<Button /> component should render link tag 1`] = `
+<a
+  className="button" />
+`;
+
+exports[`<Button /> component should render link tag with href="/" and target="_blank" 1`] = `
+<a
+  className="button"
+  href="/"
+  target="_blank" />
+`;

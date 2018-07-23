@@ -1,0 +1,80 @@
+// Demensions
+
+$width--page__aside: 270px;
+$height-header: 40px;
+
+// Colors
+
+$color-brown: #322113;
+
+$color-yellow: #fff06e;
+$color-green: #15981c;
+$color-green-light: #4fbc56;
+
+$color-red: #ff3000;
+
+$color-orange: #ff9c00;
+$color-orange-medium: #fdb300;
+$color-orange-light: #ffd200;
+$color-orange-lighter: #fff1c4;
+
+$color-gray: #c9c9c9;
+$color-gray-light: #ededed;
+$color-gray--addition: #e8e6df;
+
+$color-sand: #dbd9ce;
+
+$color-asphalt: #1f2329;
+$color-asphalt--light: #242c38;
+$color-asphalt--lighter: #75808e;
+
+$color-white: #fff;
+$color-black: #000;
+
+$color-gray-dark: #848484;
+
+$color-blue: #186aa8;
+$color-aviasales: #1ba6d2;
+
+// filter более общее название???
+$color-cream: #f5f4ef;
+$filter-bg-color: $color-cream;
+
+$header-bg-color: #303030;
+
+
+$z-index-1: 1000;
+$z-index-2: 2000;
+$z-index-3: 3000;
+$z-index-4: 4000;
+$z-index-5: 5000;
+$z-index-6: 6000;
+$z-index-7: 7000;
+$z-index-8: 8000;
+$z-index-9: 9000;
+
+$font-main: 'PT Sans', sans-serif;
+
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+    *zoom: 1;
+}
+
+@import '~react-dates/css/variables.scss';
+@import '~react-dates/css/styles.scss';
+@import 'react-tippy/dist/tippy.css';
+
+

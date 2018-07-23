@@ -1,0 +1,11 @@
+exports[`<RadioButton /> component should render input type "radio" with label and text "Mastercard" 1`] = `
+<div
+  className="radio-button">
+  <input
+    className="radio"
+    id="paymentMethod"
+    type="radio" />
+  <label
+    htmlFor="paymentMethod" />
+</div>
+`;

@@ -1,0 +1,42 @@
+exports[`<Input /> component should render input element with label 1`] = `
+<div
+  className="order-form-control">
+  <label
+    className="order-form-control__label">
+    name
+  </label>
+  <input
+    className="order-form-control__input"
+    label="name"
+    type="text" />
+</div>
+`;
+
+exports[`<Input /> component should render input type "email" 1`] = `
+<div
+  className="order-form-control">
+  <label
+    className="order-form-control__label">
+    name
+  </label>
+  <input
+    className="order-form-control__input"
+    label="name"
+    type="email" />
+</div>
+`;
+
+exports[`<Input /> component should render input with required (or any) attribute 1`] = `
+<div
+  className="order-form-control">
+  <label
+    className="order-form-control__label">
+    name
+  </label>
+  <input
+    className="order-form-control__input"
+    label="name"
+    required="required"
+    type="text" />
+</div>
+`;

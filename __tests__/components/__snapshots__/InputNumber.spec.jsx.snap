@@ -1,0 +1,59 @@
+exports[`<InputNumber /> component should render component with correct title "1 ночь" 1`] = `
+<div
+  className="input-number">
+  <div
+    className="input-number__decr"
+    onClick={[Function]}>
+    -
+  </div>
+  <div
+    className="input-number__title">
+    1 ночь
+  </div>
+  <div
+    className="input-number__incr"
+    onClick={[Function]}>
+    +
+  </div>
+</div>
+`;
+
+exports[`<InputNumber /> component should render component with correct title "2 ночи" 1`] = `
+<div
+  className="input-number">
+  <div
+    className="input-number__decr"
+    onClick={[Function]}>
+    -
+  </div>
+  <div
+    className="input-number__title">
+    2 ночи
+  </div>
+  <div
+    className="input-number__incr"
+    onClick={[Function]}>
+    +
+  </div>
+</div>
+`;
+
+exports[`<InputNumber /> component should render component with correct title "5 ночей" 1`] = `
+<div
+  className="input-number">
+  <div
+    className="input-number__decr"
+    onClick={[Function]}>
+    -
+  </div>
+  <div
+    className="input-number__title">
+    5 ночей
+  </div>
+  <div
+    className="input-number__incr"
+    onClick={[Function]}>
+    +
+  </div>
+</div>
+`;

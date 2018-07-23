@@ -1,0 +1,13 @@
+exports[`<Textarea /> component should render textarea element with label 1`] = `
+<div
+  className="order-form-control">
+  <label
+    className="order-form-control__label">
+    description
+  </label>
+  <textarea
+    className="order-form-control__input order-form-control__input--textarea"
+    label="description"
+    rows="3" />
+</div>
+`;
